@@ -318,7 +318,7 @@ header {
 .profile-circle {
     width: 450px;
     height: 450px;
-    padding: 9.5px;
+    padding: 10px;
     overflow: hidden;
 
     display: flex;
