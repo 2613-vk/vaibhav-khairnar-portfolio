@@ -330,7 +330,7 @@ header {
 .profile-circle img {
     width: 108%;
     height: 108%;
-    display: block;
+    display: flex;
 
     object-fit: cover;
     object-position: center 35%;
